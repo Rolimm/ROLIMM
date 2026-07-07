@@ -34,13 +34,15 @@ Sou estudante de Tecnologia da Informação e desenvolvedor em formação, com f
 ## 📫 Contato
 
 <p align="left">
-  <a href="mailto:gabrielmrolim201@gmail.com">
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielmrolim201@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/gabrielmrolim/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielmrolim/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
 </p>
 
 ---
