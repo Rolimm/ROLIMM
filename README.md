@@ -1,11 +1,7 @@
-<h1 align="center">Olá! 👋 Eu sou Gabriel Rolim</h1>
+<h1 align="center">Olá! Eu sou Gabriel Rolim</h1>
 
 <p align="center">
   <strong>Desenvolvedor em Formação • Estudante de Tecnologia da Informação</strong>
-</p>
-
-<p align="center">
-  Apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e aprendizado contínuo.
 </p>
 
 ---
@@ -52,7 +48,5 @@ Sou estudante de Tecnologia da Informação e desenvolvedor em formação, com f
 <div align="center">
 
 ### 💻 "A melhor forma de aprender é construindo."
-
-Obrigado por visitar meu perfil! 🚀
 
 </div>
